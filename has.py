@@ -5,7 +5,7 @@ import threading
 from datetime import datetime  # ✅ FIXED
 
 BOT_TOKEN = "8268265905:AAFtJyfZ3hz9GYW82i0ScAiHC95fzhImX-M"
-ALLOWED_GROUP_ID = -1002929955319
+ALLOWED_GROUP_ID = -1002894158040
 like_request_tracker = {}
 
 VIP_USERS = {7306058394}
